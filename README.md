@@ -39,19 +39,9 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"> <img
-            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freactjs.org%2F&psig=AOvVaw0_caPckh0Ur-OdRPWQESi5&ust=1604438694946000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCLxYbm5OwCFQAAAAAdAAAAABAD"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40"
-            height="40" /> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"
-            width="40" height="40" /> </a> </p>
+            src="hhttps://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" />  </p>
 <hr>
-
-<img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Thaanu2001&show_icons=true&count_private=true&hide=issues&theme=dark&include_all_commits=true"
-    />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaanu2001&layout=compact&theme=dark)
 
 
 <!--
