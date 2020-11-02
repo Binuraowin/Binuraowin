@@ -8,7 +8,7 @@
 
 
 📫 How to reach me: binura.owin1@gmail.com
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 
 <a href="https://github.com/Binuraowin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binuraowin&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -16,10 +16,6 @@
 <a href="https://github.com/Binuraowin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Binuraowin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" a />
 </a>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -41,7 +37,7 @@
         target="_blank"> <img
             src="hhttps://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />  </p>
-<hr>
+
 
 
 <!--
