@@ -34,9 +34,9 @@
             width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"> <img
-            src="hhttps://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />  </p>
+        target="_blank">  <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" />   </p>
 
 
 
