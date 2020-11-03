@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👨🏻‍💻 About Me 
 
 - :construction_worker: I’m currently learning React, Nodejs and Flutter
 - :iphone:Intrest for mobile app development
