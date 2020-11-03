@@ -2,12 +2,35 @@
 
 - :construction_worker: I’m currently learning React, Nodejs and Flutter
 - :iphone:Intrest for mobile app development
-- :speech_balloon: Connect with  https://www.linkedin.com/in/binura-owin-a7bb70187/
 
 - :boom: I’m a student working towards a Management Information Systems.Bsc (Special) Undergraduate at NSBM Green University.
 
 
 📫 How to reach me: binura.owin1@gmail.com
+
+<hr>
+<p align="center">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/binura-owin-a7bb70187/" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hi,dude!"
+        height="30" width="40" /></a>
+<a href="https://dev.to/binuraowin" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hi,dude!" height="30"
+        width="40" /></a>
+<a href="https://stackoverflow.com/users/11974940/binura" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
+        alt="hi,dude!" height="30" width="40" /></a>
+<a href="https://www.instagram.com/binuraowin/?hl=en" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hi,dude!" height="30"
+        width="40" /></a>
+        <a href="https://www.facebook.com/binura.owin.7/" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hi,dude!" height="30"
+        width="40" /></a>
+</p>
+
+
+
+
 <hr>
 
 <a href="https://github.com/Binuraowin">
