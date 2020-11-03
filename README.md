@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 About Me 
 
 - :construction_worker: I’m currently learning React, Nodejs and Flutter
-- :iphone:Intrest for mobile app development
+- :iphone:Intrest at mobile app development
 
 - :boom: I’m a student working towards a Management Information Systems.Bsc (Special) Undergraduate at NSBM Green University.
 
