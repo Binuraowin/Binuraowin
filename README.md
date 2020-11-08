@@ -42,9 +42,10 @@
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
-            width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
+<p align="left">    <a  target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb"
+            width="40" height="40" /> 
+        <a href="https://www.w3schools.com/css/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
             width="40" height="40" /> </a><a href="https://firebase.google.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
@@ -52,25 +53,36 @@
             src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     </a> <a href="https://cloud.google.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-            height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
+            height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> 
+        <img
             src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
             width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank">  <img
+        target="_blank">  
+        <img
             src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />   </p>
+            alt="javascript" width="40" height="40" />
+        </a>
+        <a href="https://nodejs.org/en/docs/guides/nodejs-docker-webapp/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs"
+            width="40" height="40" /> 
+                <a href="https://getbootstrap.com" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
+            width="40" height="40" /> </a> 
+                 <a  target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react"
+            width="40" height="40" /> 
+                          <a  target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular"
+            width="40" height="40" /> 
+                                
+        </p>
 
 
 
-<!--
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 
-
--->
 
 <!--
 **Binuraowin/Binuraowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
