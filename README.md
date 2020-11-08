@@ -76,8 +76,7 @@
                           <a  target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular"
             width="40" height="40" /> 
-                                
-        </p>
+                          </p>
 
 
 
