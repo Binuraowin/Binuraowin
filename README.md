@@ -77,6 +77,21 @@
                           <a  target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular"
             width="40" height="40" /> 
+                                  <a  target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql"
+            width="40" height="40" /> 
+                                           <a  target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg" alt="Django"
+            width="40" height="40" /> 
+                                   <a  target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgessql"
+            width="40" height="40" /> 
+                             <a  target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop"
+            width="40" height="40" /> 
+                             <a  target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go"
+            width="40" height="40" /> 
                           </p>
 
 
