@@ -32,7 +32,7 @@
 
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binuraowin&hide=Python,PHP&layout=compact&theme=midnight-purple" alt="Binuraowin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binuraowin&hide=Python,PHP,CSS&layout=compact&theme=midnight-purple" alt="Binuraowin" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Binuraowin&show_icons=true&theme=midnight-purple" alt="Binuraowin2" /></p>
 
 
