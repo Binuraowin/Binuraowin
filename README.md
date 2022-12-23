@@ -43,8 +43,8 @@
 <p align="left">    <a  target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
             width="40" height="40" /> 
-        <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
+        <a href="https://www.figma.com/login" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma"
             width="40" height="40" /> </a><a href="https://firebase.google.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a> <a href="https://flutter.dev" target="_blank"> <img
@@ -52,13 +52,13 @@
     </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank">  
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
         </a>
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
+            src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VUE"
             width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"
             width="40" height="40" /> </a> 
               <a href="https://cloud.google.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
@@ -66,9 +66,6 @@
         <a href="https://nodejs.org/en/docs/guides/nodejs-docker-webapp/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs"
             width="40" height="40" /> 
-                <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
-            width="40" height="40" /> </a> 
                  <a  target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react"
             width="40" height="40" /> 
@@ -77,9 +74,6 @@
             width="40" height="40" /> 
                                   <a  target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql"
-            width="40" height="40" /> 
-                                           <a  target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg" alt="Django"
             width="40" height="40" /> 
                                    <a  target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgessql"
