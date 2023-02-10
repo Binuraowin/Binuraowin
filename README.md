@@ -3,7 +3,7 @@
 - :construction_worker: I’m currently learning React, Nodejs and Flutter
 - :iphone:Intrest at mobile app development
 
-- :boom: I’m a student working towards a Management Information Systems.Bsc (Special) Undergraduate at NSBM Green University.
+- :boom: Full Stack Software Engineer specialized in React and Node
 
 
 📫 How to reach me: binura.owin1@gmail.com
